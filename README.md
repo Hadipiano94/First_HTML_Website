@@ -1,5 +1,5 @@
 # First_HTML_Website
-first time coding HTML and CSS. simple website with 3 pages
+first time coding HTML and CSS. simple website with 3 pages, clickable pictures and links and some other websites links.
 
 Home Page:
 
